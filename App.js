@@ -17,6 +17,9 @@ import AddMedicineScreen from './Screens/AddMedicineScreen'
 import NewMedInformationScreen from './Screens/NewMedInformationScreen'
 import MedIdentifierScreen from './Screens/MedIdentifierScreen'
 
+
+
+
 const App = StackNavigator({
   
   LoginScreen: {screen: LoginScreen},
